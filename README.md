@@ -1,13 +1,13 @@
 # kingdom-ai
 made by @cyrusstainesofficial
-# 🤖 BJTricks AI — Futuristic Cyber-Interface
+# 🤖Kingdom AI — Futuristic Cyber-Interface
 
 ![Vercel Deployment](https://img.shields.io/badge/Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**BJTricks AI** is an advanced, ultra-modern web interface designed for an immersive AI chat experience. Featuring a high-end **Cyberpunk UI**, this project integrates real-time voice interaction and futuristic animations to redefine how users interact with AI.
+**kingdom  AI** is an advanced, ultra-modern web interface designed for an immersive AI chat experience. Featuring a high-end **Cyberpunk UI**, this project integrates real-time voice interaction and futuristic animations to redefine how users interact with AI.
 
 ---
 
