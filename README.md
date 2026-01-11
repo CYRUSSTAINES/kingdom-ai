@@ -29,18 +29,7 @@ made by @cyrusstainesofficial
 - **Speech Engine:** Web Speech API (Recognition & Synthesis)
 - **Deployment:** Optimized for Vercel
 
----
-
-## 📦 Quick Deployment
-
-To deploy this project on your own Vercel account:
-
-1. **Fork** this repository.
-2. Go to [Vercel](https://vercel.com/) and import your forked repository.
-3. Click **Deploy**.
-4. Your AI web interface will be live in seconds!
-
-> **Watch Tutorial:** I have also created a detailed video guide on how to deploy this project on Vercel. 
+--
 
 ---
 
